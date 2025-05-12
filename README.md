@@ -163,12 +163,13 @@ visualize_denoising(model, test_loader)
 
 ### Model Summary
 
-Include your model summary
+![image](https://github.com/user-attachments/assets/1bc7ba78-8f61-4264-a6ca-09f3edd03d79)
+
 
 ### Original vs Noisy Vs Reconstructed Image
 
-Include a few sample images here.
-
-
+![image](https://github.com/user-attachments/assets/9ee580d8-0e00-4672-ba3b-6aa39755c9a2)
 
 ## RESULT
+A convolutional autoencoder was successfully implemented using PyTorch to denoise MNIST images. The model was able to reconstruct clean images from noisy inputs, demonstrating its effectiveness in feature learning and denoising tasks.
+
